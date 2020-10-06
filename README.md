@@ -5,3 +5,5 @@ This digital analog clock was created and adapted by following the Java Script E
 
 
 [![Screen-Shot-2020-10-06-at-11-41-10-am.png](https://i.postimg.cc/gc7KGjWB/Screen-Shot-2020-10-06-at-11-41-10-am.png)](https://postimg.cc/z3nhjJ3n)
+
+![ScreenShot](https://github.com/RHolmes-jpg/Digital-Analog-Clock/blob/main/Screen%20Shot%202020-10-06%20at%2011.41.10%20am.png)
